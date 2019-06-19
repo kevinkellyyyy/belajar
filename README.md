@@ -1,1 +1,2 @@
 # belajar
+ini adalaha belajar
